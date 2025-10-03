@@ -43,6 +43,8 @@ This project explores advanced data augmentation strategies for predictive maint
 - **Automotive** – Fleet management and fault prevention.  
 
 ## 📂 Repository Structure
---Synthetic Data Creation and Validation.ipynb # Jupyter Notebook for data generation & validation
---Optimizing Predictive Maintenance.pptx # Project presentation
+-- Synthetic Data Creation and Validation.ipynb
+
+-- Optimizing Predictive Maintenance.pptx # Project presentation
+
 -- README.md # Project documentation
